@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.image{
+width: 120px;
+height: 150px;
+border-radius: 4px;
+margin-left: 24px;
+}
+.nav{
+    background-color: red;
+    height: 80px;
+    width: auto;
+   border-top-left-radius: 10px;
+   border-top-right-radius: 10px;
+   margin-bottom: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    font-size: 30px;
+}
+
+.parent{
+    display: flex;
+    padding-bottom: 28px;
+}
+.mat{
+margin-top: 10px;
+    margin-left: 20px;
+    
+
+}
+
+.bol{
+    font-weight: bold;
+}
+.map{
+    margin-left: 13px;
+    /* margin-bottom: 0px; */
+}
